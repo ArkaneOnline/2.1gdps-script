@@ -1,0 +1,27 @@
+{
+  "name": "2.1gdps-script",
+  "description": "This script is intended to be used to obtain a legitimate copy of Geometry Dash 2.1 and modify it to point to the official Pointercrate approved GDPS. <br>\r Currently, this script only supports Windows. MacOS is unsupported at this time. <br>\r Linux likely works running this script thru WINE, but results may vary until a native Linux port is released. <br>",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "dependencies": {
+    "@angablue/exe": "^2.1.1",
+    "binary-parser": "^2.2.1",
+    "hexy": "^0.3.5",
+    "replace-in-file": "^7.1.0",
+    "seek-bzip": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node .",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkaneOnline/2.1gdps-script.git"
+  },
+  "author": "Arkane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkaneOnline/2.1gdps-script/issues"
+  },
+  "homepage": "https://github.com/ArkaneOnline/2.1gdps-script#readme"
+}
