@@ -4,11 +4,7 @@
   "version": "1.0.0",
   "main": "src/app.js",
   "dependencies": {
-    "@angablue/exe": "^2.1.1",
-    "binary-parser": "^2.2.1",
-    "hexy": "^0.3.5",
-    "replace-in-file": "^7.1.0",
-    "seek-bzip": "^2.0.0"
+    "@angablue/exe": "^2.1.1"
   },
   "scripts": {
     "test": "node .",
