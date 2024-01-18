@@ -1,0 +1,12 @@
+How to Download and Setup the Pointercrate 2.1 GDPS
+Note, this method requires you to own Geometry Dash on Steam
+
+1. Open a web browser and go to: steam://nav/console
+2. In the Steam app, you should see a new tab called "console", in this tab, type the following: download_depot 322170 322171 641118531549408775
+3. Wait for the depot to finish downloading, once it's downloaded, it should be located at the following directory: {steamfolder}/steamapps/content/app_322170/depot_322171
+4. Drag this folder wherever you would like to keep it and rename it to whatever you would like.
+5. Open the "Pointercrate-GDPS-Setup.exe" file and follow the instructions on the screen.
+6. Once that's done, you should be able to launch the GDPS by opening the new "PointercrateGDPS.exe" file inside of the folder you copied.
+7. You can then install Mega Hack, as well as any other mods as you normally would.
+
+Video Guide: this doesn't exist yet, gonna make it soon
